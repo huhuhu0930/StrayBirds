@@ -122,7 +122,7 @@ safe: false
 highlighter: pygments
 title: huhuhu Blog
 description: 不度人世清浊，未飨红尘洒脱
-theme: huhuhu
+theme: hack
 disqusname:huhuhu0930
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
